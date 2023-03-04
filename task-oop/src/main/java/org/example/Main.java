@@ -24,6 +24,10 @@ public class Main {
         store.setSalesVolume(salesVolume);
 
         store.getAll();
+        Revisor revisor = new Revisor(store);
+        revisor.closeStore();
+        revisor.rebrand();
+        store.getAll();
 
     }
 

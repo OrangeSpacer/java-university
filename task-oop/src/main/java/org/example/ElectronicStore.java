@@ -41,6 +41,5 @@ public class ElectronicStore extends Store {
         System.out.println("Тип продаваемого товара: "+getTypeOfElectronic());
         System.out.println("Объем продаж: "+ getSalesVolume());
         System.out.println("Статус закупки товара: "+checkOfGoodsOrder());
-
     }
 }
