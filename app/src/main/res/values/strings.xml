@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">String</string>
+    <string name="placeholder">Entry word</string>
+    <string name="btn_reverse">reverse</string>
+    <string name="delete_vowels">delete vowels</string>
+    <string name="change_register_even">change register</string>
+</resources>
